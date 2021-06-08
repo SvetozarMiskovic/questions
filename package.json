@@ -1,5 +1,5 @@
 {
-  "homepage": "http://svetozarmiskovic.github.io/reviews",
+  "homepage": "http://svetozarmiskovic.github.io/questions",
   "name": "reviews",
   "version": "1.0.0",
   "description": "",
@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SvetozarMiskovic/reviews.git"
+    "url": "git+https://github.com/SvetozarMiskovic/questions.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SvetozarMiskovic/reviews/issues"
+    "url": "https://github.com/SvetozarMiskovic/questions/issues"
   }
 }
